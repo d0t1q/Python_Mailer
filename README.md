@@ -1,4 +1,5 @@
 # Python_Mailer
+Requiresw local SMTP server(Can be confgiured to use an extgernal host if needed)
 
         Usage: script_name.py [OPTION]
 
