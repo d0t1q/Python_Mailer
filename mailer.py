@@ -10,7 +10,7 @@ from  email.mime.text import MIMEText
 
 
 def help():
-    print '\nGet fucked'
+    print '\nno'
 
 def send_mail(me_, you_, times_repeat_):
     msg = MIMEText("""Youre home is on fire""",)
